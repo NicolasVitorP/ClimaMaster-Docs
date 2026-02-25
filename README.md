@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/4f791b28-7538-45a8-a2b1-1446eb646050" width="180" alt="ClimaMaster Logo" />
 
-<h1>ClimaMaster Docs</h1>
+<img src="https://github.com/user-attachments/assets/c03dd008-048c-4f90-bd8f-c7fca6446f58" width="180" alt="QR Code" />
+<h1>ClimaMaster Documentação</h1>
 
 <p>Sistema de Monitoramento Climático — Projeto FrontEnd</p>
 
