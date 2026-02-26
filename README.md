@@ -2,7 +2,9 @@
 <div align="center">
 
 
-<img src="https://github.com/user-attachments/assets/c03dd008-048c-4f90-bd8f-c7fca6446f58" width="180" alt="QR Code" />
+<a href="https://sistema-de-monitoramento-climatico.vercel.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/c03dd008-048c-4f90-bd8f-c7fca6446f58" width="180" />
+</a>
 <h1>ClimaMaster Documentação</h1>
 
 <p>Sistema de Monitoramento Climático — Projeto FrontEnd</p>
